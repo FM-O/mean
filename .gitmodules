@@ -1,0 +1,3 @@
+[submodule "mean-client"]
+	path = mean-client
+	url = git@github.com:FM-O/mean-client.git
